@@ -77,6 +77,6 @@
 
 <br clear="both">
 
-![snake animation](https://github.com/RealMarDev/RealMarDev/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/RealMarDev/RealMarDev.git/blob/output/github-contribution-grid-snake2.svg)
 
 ###

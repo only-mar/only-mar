@@ -1,82 +1,49 @@
-<h2 align="left">👋!</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RealMarDev.RealMarDev&right_color=black&left_text=~"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=realmardev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=realmardev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/l41lGnxllmN3YqOyI/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="mailto:realmardev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.gg/jTyT4NdWbE" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="discord logo"  />
-  </a>
-  <a href="https://dev.to/notcool" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="devto logo"  />
-  </a>
-  <a href="https://notcool.cc/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio &logo=medium&label=&color=ffffff&logoColor=white&labelColor=000000&style=for-the-badge" height="33" alt="medium logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=react" height="35" alt="react logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=html" height="35" alt="html5 logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="35" alt="css3 logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=py" height="35" alt="python logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=cs" height="35" alt="csharp logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/adobeaftereffects/9999FF" height="35" alt="aftereffects logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=bash" height="35" alt="bash logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="canva logo"  />
-  <img width="13" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="35" alt="discordjs logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=github" height="35" alt="github logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=git" height="35" alt="git logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="35" alt="jquery logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=linux" height="35" alt="linux logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="35" alt="nodejs logo"  />
-  <img width="13" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="35" alt="photoshop logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="35" alt="raspberrypi logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="35" alt="vscode logo"  />
-  <img width="13" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="35" alt="unrealengine logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-![snake animation](https://github.com/RealMarDev/RealMarDev.git/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/realmardev/realmardev/output/snake.svg" alt="Snake animation" />
 
 ###

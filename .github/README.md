@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Omar but you can delete the first letter.</h2>
+<h2 align="left">Hi 👋.</h2>
 
 ###
 

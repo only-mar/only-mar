@@ -1,54 +1,39 @@
-<h2 align="left">Hi 👋.</h2>
+<img align="right" alt="Profile" src="https://i.pinimg.com/736x/11/83/97/11839740f4cb2763842c0f5eb5db055c.jpg" width="200px">
 
-###
+# Hi there 👋 I'm Omar Abdullah
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=only-mar&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=only-mar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## Full-Stack Dev
 
-###
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=index.html&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=index.html" alt="GitHub Streak" />
+</p>
 
-<!--
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExODdjMWdpdGFscW8yOHUyd2dpdXF4b2NsNTZra25rZ28xZjdhcnE2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DMSbPdkWoRj53XdEfn/giphy.gif"  />
--->
+### Skills
 
-###
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-FF5722?style=for-the-badge&logo=java" alt="Java" />
+  <img src="https://img.shields.io/badge/python-FFC107?style=for-the-badge&logo=python" alt="python" />
+  <img src="https://img.shields.io/badge/html-4CAF50?style=for-the-badge&logo=html" alt="html" />
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+### Projects
 
-###
+<details>
+<summary><b> README Generator</b></summary>
 
-<div align="left">
-  <a href="https://discordapp.com/users/1079466225861673120" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/omar-alhami" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://mailto:omar.alhami@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
 
-###
+README Generator so funn
 
-<br clear="both">
+[View Project](http://127.0.0.1:5500/index.html)
+</details>
 
-<img src="https://raw.githubusercontent.com/realmardev/realmardev/output/snake.svg" alt="Snake animation" />
+### Connect with Me
 
-###
+<p align="left">
+  <a href="mailto:omar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="so-creativetech.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+  <a href="http://127.0.0.1:5500/index.html"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="http://127.0.0.1:5500/index.html"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="http://127.0.0.1:5500/index.html"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>

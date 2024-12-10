@@ -1,4 +1,4 @@
-# Omar, but you can delete the O👋.
+# Omar👋, but you can delete the O.
 ### Full-Stack Web & App Developer | Security Researcher
 
 Passionate developer with expertise in full-stack development and security.

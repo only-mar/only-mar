@@ -12,7 +12,6 @@ Passionate developer with expertise in full-stack development and security.
 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=only-mar&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=only-mar&theme=dark" alt="GitHub Streak" />
 </p>
 
 🤝 **Connect With Me**

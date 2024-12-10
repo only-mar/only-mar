@@ -1,6 +1,4 @@
-<img src="https://github.com/only-mar.png" alt="Profile" width="200" height="200" style="border-radius: 50%; margin-bottom: 20px;">
-
-# Omar A.
+# Omar A👋.
 ### Full-Stack Web & App Developer | Security Researcher
 
 Passionate developer with expertise in full-stack development and security.

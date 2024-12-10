@@ -16,4 +16,4 @@ Passionate developer with expertise in full-stack development and security.
 - [Website](https://marsec.cc)
 - [Email](mailto:omar.alhami@outlook.com)
 
- ## **[Create your README profile now!](https://github-readmegenerator.netlify.app/)**
+ *[Create your own README profile!](https://github-readmegenerator.netlify.app/)*

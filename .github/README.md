@@ -1,15 +1,15 @@
-# Omar, but you can delete the O.
+# Omar👋, but you can delete the O.
 ### Full-Stack Web & App Developer | Security Researcher
 
 Passionate developer with expertise in full-stack development and security.
 
-<img class="ghost-image" style="margin-right: 20px;" height="150" src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif"  />
+<img align="right" style="margin-right: 202px;" height="150" src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif"  />
 
-️ **Tech Stack**
+🛠️ **Tech Stack**
 - Advanced: `Website Developer` `Chrome Extensions`
 - Intermediate: `IOS Developer`
 
- **Connect With Me**
+🤝 **Connect With Me**
 - [Website](https://marsec.cc)
 - [Email](mailto:omar.alhami@outlook.com)
 
@@ -20,8 +20,3 @@ Passionate developer with expertise in full-stack development and security.
 ###
 
 *[Create your own README profile!](https://github-readmegenerator.netlify.app/)*
-
-.ghost-image {
-  float: left;
-  margin-right: 20px;
-}

@@ -12,11 +12,9 @@ Passionate developer with expertise in full-stack development and security.
 🤝 **Connect With Me**
 - [Website](https://marsec.cc)
 - [Email](mailto:omar.alhami@outlook.com)
-
+  
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/only-mar/only-mar/output/snake.svg" alt="Snake animation" />
 
 ###
-
-*[Create your own README profile!](https://github-readmegenerator.netlify.app/)*

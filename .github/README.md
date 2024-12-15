@@ -3,7 +3,7 @@
 
 Passionate developer with expertise in full-stack development and security.
 
-<img align="right" style="margin-left: 50px;" height="150" src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif" />
+<img align="right" style="margin-left: 50px;" height="150" src="https://media.tenor.com/aBbm5NZHADYAAAAi/pizza-pizza-slice.gif" />
 
 🛠️ **Tech Stack**
 - Advanced: `Website Developer` `Chrome Extensions`

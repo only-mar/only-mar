@@ -3,7 +3,7 @@
 
 Passionate developer with expertise in full-stack development and security.
 
-<img align="left" style="margin-right: 20px;" height="150" src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif"  />
+<img class="ghost-image" style="margin-right: 20px;" height="150" src="https://media.tenor.com/RLgI4fQWhIYAAAAi/fantome-sexyfantome.gif"  />
 
 ️ **Tech Stack**
 - Advanced: `Website Developer` `Chrome Extensions`
@@ -20,3 +20,8 @@ Passionate developer with expertise in full-stack development and security.
 ###
 
 *[Create your own README profile!](https://github-readmegenerator.netlify.app/)*
+
+.ghost-image {
+  float: left;
+  margin-right: 20px;
+}

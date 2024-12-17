@@ -15,6 +15,6 @@ Passionate developer with expertise in full-stack development and security.
   
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/only-mar/only-mar/output/snake.svg" alt="Snake animation" />
 
 ###

@@ -1,5 +1,5 @@
 # Omar👋, but you can delete the O.
-### Full-Stack Web & App Developer | Security Researcher
+### Software Engineer | Cybersecurity Enthusiast
 
 Passionate developer with expertise in full-stack development and security.
 
